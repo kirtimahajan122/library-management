@@ -1,7 +1,7 @@
-📚 Library Management System
+# 📚 Library Management System
 This is a Django-based Library Management System with MySQL as the database. It allows administrators to perform CRUD operations on books and provides a student view for checking available books.
 
-🚀 Features
+# 🚀 Features
 Admin Panel: Manage books (Add, Update, Delete, View).
 
 Student View: View available books in the library.
@@ -10,14 +10,14 @@ REST API: Built using Django REST Framework for book management.
 
 MySQL Database: Stores book records securely.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Backend: Django, Django REST Framework
 
 Database: MySQL
 
 Frontend: (To be decided—Django templates, React, or another framework)
 
-📥 Installation
+# 📥 Installation
 1️⃣ Clone the Repository
 ```
 git clone https://github.com/your-username/library-management.git
@@ -61,7 +61,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-🔗 Future Enhancements
+# 🔗 Future Enhancements
 ✅ Search & Filter Books
 
 ✅ User Authentication (Students & Admins)
@@ -71,5 +71,3 @@ python manage.py runserver
 ✅ Frontend using React or Django Templates
 
 
-🤝 Contributing
-Feel free to fork this repo, raise issues, or contribute!
